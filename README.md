@@ -123,12 +123,7 @@ All four social URLs are kept in a clearly marked comment block at the top of th
 
 All four icons currently point to the official Instagram profile. Update the matching `href` attributes in the `.socials` list directly below that comment when other platform profiles become available. Links open in a new tab with `rel="noopener noreferrer"`.
 
-## Contact Details Used
 
-- **Contact person:** Rajeshbhai Jasani
-- **Phone / WhatsApp:** +91 99091 10018
-- **Email:** rajeshjasani11@gmail.com
-- **Address:** Gujarat, India *(placeholder)*
 
 ## Browser Support
 
